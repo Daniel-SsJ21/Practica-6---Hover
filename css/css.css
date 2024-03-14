@@ -1,0 +1,52 @@
+body{
+color: black;
+}
+img{
+    padding: 10px;
+    height: 40%;
+    width: 40%;
+}
+h1{
+    text-align: center;
+}
+
+td{
+    text-align: center;
+}
+#contenedor{
+    display: flex;    
+    text-align: center;
+    align-items: center;
+}
+#img{
+    align-content:center;
+    height: 20%;
+    width: 20%;
+}
+    body {
+        margin: 0;
+        padding: 0;
+}
+tr:hover{
+    background: blue;
+    color:white;
+}
+header{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .container {
+        
+        display: flex;
+        
+    }
+
+    .box {        
+        text-align: center;
+        width: 600px;
+        height: auto;
+        background-color: #f0f0f0;
+        margin: 0 10px;
+    }
